@@ -84,7 +84,8 @@ export function App() {
               </p>
             </div>
             <div className="text-center">
-              <img src="https://images.unsplash.com/photo-1617234084523-52728c8c4e8b?ixlib=rb-4.0.3" alt="Food Culture" className="w-full h-48 object-cover rounded-lg mb-4" />
+              <img src="https://images.unsplash.com/photo-1528360983277-13d401cdc186?ixlib=rb-4.0.3" alt="Cultural Experience" className="w-full h-48 object-cover rounded-lg mb-4" />
+              <img src="" alt="Food Culture" className="w-full h-48 object-cover rounded-lg mb-4" />
               <h3 className="text-xl font-semibold mb-2">Amazing Food</h3>
               <p className="text-gray-600">
                 Enjoy Fukuoka's famous culinary delights
@@ -419,7 +420,7 @@ export function App() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; 2023 Fukuoka Language Academy. All rights reserved.</p>
+            <p>&copy; 2025 Moazzem Hossain. All rights reserved.</p>
           </div>
         </div>
       </footer>
